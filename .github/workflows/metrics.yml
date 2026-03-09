@@ -1,0 +1,23 @@
+name: GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: TadeyRuk
+          token: ${{ secrets.METRICS_RUKKAN }}
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
