@@ -1,3 +1,12 @@
+<h1>Hi, I'm TadeyRuk 👋</h1>
+
+<p>
+  Building Kouri (a multi-agent chatbot platform), Tether (Bluetooth-linked Flask services),
+  and VisionX (real-time face recognition with InsightFace/CUDA) — mostly Python and
+  React/TypeScript, with some C++/Qt on the side for desktop tooling.
+  Check out my <a href="https://github.com/TadeyRuk?tab=repositories">repositories</a> for more.
+</p>
+
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
@@ -35,6 +44,16 @@
       <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
       <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+      <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt">
+      <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=Qt&logoColor=white" alt="QML">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=KDE&logoColor=white" alt="KDE">
     </td>
   </tr>
 </table>
