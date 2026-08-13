@@ -7,7 +7,7 @@
   Check out my <a href="https://github.com/TadeyRuk?tab=repositories">repositories</a> for more.
 </p>
 
-<table width="100%">
+<table width="520">
   <tr>
     <td width="50%" valign="top">
       <img width="100%" src="https://github-readme-stats-two-lyart.vercel.app/api?username=TadeyRuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
