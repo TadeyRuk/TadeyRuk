@@ -13,3 +13,31 @@
 
 <img align="left" width="47.5%" src="./metrics_left.svg" alt="Metrics left" />
 <img align="right" width="47.5%" src="./metrics_right.svg" alt="Metrics right" />
+
+<br clear="both">
+
+## Projects
+
+<table>
+<tr>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Kouri-Public"><img src="./assets/logos/kouri.png" width="64" alt="Kouri"><br>Kouri</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Achievo"><img src="./assets/logos/achievo.png" width="64" alt="Achievo"><br>Achievo</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Beans"><img src="./assets/logos/beans.png" width="64" alt="Beans"><br>Beans</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/eGov"><img src="https://opengraph.githubassets.com/1/TadeyRuk/eGov" width="64" alt="eGov"><br>eGov</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Eclipse"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Eclipse" width="64" alt="Eclipse"><br>Eclipse</a></td>
+</tr>
+<tr>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Tether"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Tether" width="64" alt="Tether"><br>Tether</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Flux"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Flux" width="64" alt="Flux"><br>Flux</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Arbiter"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Arbiter" width="64" alt="Arbiter"><br>Arbiter</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Tasky"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Tasky" width="64" alt="Tasky"><br>Tasky</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Bud2"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Bud2" width="64" alt="Bud2"><br>Bud2</a></td>
+</tr>
+<tr>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/VendoLista---APAC"><img src="https://opengraph.githubassets.com/1/TadeyRuk/VendoLista---APAC" width="64" alt="VendoLista"><br>VendoLista</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/Website"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Website" width="64" alt="Website"><br>Website</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/OMEGA"><img src="https://opengraph.githubassets.com/1/TadeyRuk/OMEGA" width="64" alt="OMEGA"><br>OMEGA</a></td>
+<td align="center" width="96"><a href="https://github.com/TadeyRuk/heatmap--nasa-space--apps"><img src="https://opengraph.githubassets.com/1/TadeyRuk/heatmap--nasa-space--apps" width="64" alt="NASA Heatmap"><br>NASA Heatmap</a></td>
+<td></td>
+</tr>
+</table>
