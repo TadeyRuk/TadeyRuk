@@ -1,4 +1,8 @@
-<h1>Hi, I'm Xander 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/xander-logo-for-dark-mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/xander-logo-for-light-mode.png">
+  <img alt="Xander" src="./assets/xander-logo-for-light-mode.png" width="360">
+</picture>
 
 <p>
   Building Kouri (a multi-agent chatbot platform), Tether (Bluetooth-linked Flask services),
