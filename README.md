@@ -7,4 +7,4 @@
   Check out my <a href="https://github.com/TadeyRuk?tab=repositories">repositories</a> for more.
 </p>
 
-<img src="./github-metrics.svg" width="780" alt="Metrics" />
+<img src="./github-metrics.svg" width="480" alt="Metrics" />
