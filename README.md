@@ -18,7 +18,7 @@
 
 ## Projects
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/Kouri-Public"><img src="./assets/logos/kouri.png" width="170" alt="Kouri"><br>Kouri</a></td>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/Achievo"><img src="./assets/logos/achievo.png" width="170" alt="Achievo"><br>Achievo</a></td>
@@ -32,26 +32,11 @@
 <tr>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/Flux"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Flux" width="170" alt="Flux"><br>Flux</a></td>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/Arbiter"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Arbiter" width="170" alt="Arbiter"><br>Arbiter</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/Tasky"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Tasky" width="170" alt="Tasky"><br>Tasky</a></td>
-</tr>
-<tr>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/Bud2"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Bud2" width="170" alt="Bud2"><br>Bud2</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/Website"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Website" width="170" alt="Website"><br>Website</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/OMEGA"><img src="https://opengraph.githubassets.com/1/TadeyRuk/OMEGA" width="170" alt="OMEGA"><br>OMEGA</a></td>
 </tr>
 <tr>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/heatmap--nasa-space--apps"><img src="https://opengraph.githubassets.com/1/TadeyRuk/heatmap--nasa-space--apps" width="170" alt="NASA Heatmap"><br>NASA Heatmap</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/Kouri-Chrome-Extension-Package"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Kouri-Chrome-Extension-Package" width="170" alt="Kouri Chrome"><br>Kouri Chrome</a></td>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/Kouri-HandAssistant-Pre-Alpha"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Kouri-HandAssistant-Pre-Alpha" width="170" alt="HandAssistant"><br>HandAssistant</a></td>
-</tr>
-<tr>
 <td align="center" width="220"><a href="https://github.com/TadeyRuk/Kouri-ChatBot-BETA_Preview"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Kouri-ChatBot-BETA_Preview" width="170" alt="Kouri Beta"><br>Kouri Beta</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/Python_Projects"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Python_Projects" width="170" alt="Python Experiments"><br>Python Experiments</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/React-Web"><img src="https://opengraph.githubassets.com/1/TadeyRuk/React-Web" width="170" alt="React Web"><br>React Web</a></td>
-</tr>
-<tr>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/PHP"><img src="https://opengraph.githubassets.com/1/TadeyRuk/PHP" width="170" alt="PHP Site"><br>PHP Site</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/Discrete-Structures"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Discrete-Structures" width="170" alt="Discrete Structures"><br>Discrete Structures</a></td>
-<td align="center" width="220"><a href="https://github.com/TadeyRuk/FinalsOOP"><img src="https://opengraph.githubassets.com/1/TadeyRuk/FinalsOOP" width="170" alt="FinalsOOP"><br>FinalsOOP</a></td>
 </tr>
 </table>
