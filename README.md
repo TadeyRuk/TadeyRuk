@@ -20,19 +20,19 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Kouri-Public"><img src="./assets/logos/kouri.png" width="200" alt="Kouri"><br>Kouri</a></td>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Achievo"><img src="./assets/logos/achievo.png" width="200" alt="Achievo"><br>Achievo</a></td>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Beans"><img src="./assets/logos/beans.png" width="200" alt="Beans"><br>Beans</a></td>
+<td align="center" width="280"><a href="https://github.com/TadeyRuk/Kouri-Public"><img src="./assets/logos/kouri.png" width="120" alt="Kouri"><br>Kouri</a></td>
+<td align="center" width="280"><a href="https://github.com/TadeyRuk/Achievo"><img src="./assets/logos/achievo.png" width="120" alt="Achievo"><br>Achievo</a></td>
+<td align="center" width="280"><a href="https://github.com/TadeyRuk/Beans"><img src="./assets/logos/beans.png" width="120" alt="Beans"><br>Beans</a></td>
 </tr>
 <tr>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/eGov"><img src="./assets/logos/egov.png" width="200" alt="eGov"><br>eGov</a></td>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Flux"><img src="./assets/logos/flux.svg" width="200" alt="Flux"><br>Flux</a></td>
+<td align="center" width="280"><a href="https://github.com/TadeyRuk/Flux"><img src="./assets/logos/flux.svg" width="120" alt="Flux"><br>Flux</a></td>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/Eclipse"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Eclipse" width="200" alt="Eclipse"><br>Eclipse</a></td>
 </tr>
 <tr>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/Tether"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Tether" width="200" alt="Tether"><br>Tether</a></td>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/Arbiter"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Arbiter" width="200" alt="Arbiter"><br>Arbiter</a></td>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Bud2"><img src="./assets/logos/bud2.svg" width="200" alt="Bud2"><br>Bud2</a></td>
+<td align="center" width="280"><a href="https://github.com/TadeyRuk/Bud2"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Bud2" width="200" alt="Bud2"><br>Bud2</a></td>
 </tr>
 <tr>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/heatmap--nasa-space--apps"><img src="https://opengraph.githubassets.com/1/TadeyRuk/heatmap--nasa-space--apps" width="200" alt="NASA Heatmap"><br>NASA Heatmap</a></td>
