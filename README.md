@@ -36,7 +36,5 @@
 </tr>
 <tr>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/heatmap--nasa-space--apps"><img src="https://opengraph.githubassets.com/1/TadeyRuk/heatmap--nasa-space--apps" width="200" alt="NASA Heatmap"><br>NASA Heatmap</a></td>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Kouri-HandAssistant-Pre-Alpha"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Kouri-HandAssistant-Pre-Alpha" width="200" alt="HandAssistant"><br>HandAssistant</a></td>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Kouri-ChatBot-BETA_Preview"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Kouri-ChatBot-BETA_Preview" width="200" alt="Kouri Beta"><br>Kouri Beta</a></td>
 </tr>
 </table>
