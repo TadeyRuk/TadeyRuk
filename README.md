@@ -32,7 +32,7 @@
 <tr>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/Tether"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Tether" width="200" alt="Tether"><br>Tether</a></td>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/Arbiter"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Arbiter" width="200" alt="Arbiter"><br>Arbiter</a></td>
-<td align="center" width="280"><a href="https://github.com/TadeyRuk/Bud2"><img src="https://opengraph.githubassets.com/1/TadeyRuk/Bud2" width="200" alt="Bud2"><br>Bud2</a></td>
+<td align="center" width="280"><a href="https://github.com/TadeyRuk/Bud2"><img src="./assets/logos/bud2.svg" width="200" alt="Bud2"><br>Bud2</a></td>
 </tr>
 <tr>
 <td align="center" width="280"><a href="https://github.com/TadeyRuk/heatmap--nasa-space--apps"><img src="https://opengraph.githubassets.com/1/TadeyRuk/heatmap--nasa-space--apps" width="200" alt="NASA Heatmap"><br>NASA Heatmap</a></td>
